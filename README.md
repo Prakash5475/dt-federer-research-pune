@@ -31,3 +31,11 @@ Identify Federer-profile manufacturing companies that fit DeepThought's consulti
 ## Key Observation
 
 Pune offers a dense ecosystem of precision engineering and industrial automation firms, creating a strong pool of Federer-profile businesses.
+
+## Candidate Universe
+
+Initial universe: 79 companies
+
+Final shortlist: 30 companies
+
+Rejected: 49 companies
